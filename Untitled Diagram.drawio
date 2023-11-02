@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:23:25.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.7.1" etag="RWYR66aWX5R2Z3cWEZmI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T04:30:36.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EOxEolyznfIestdD51no" version="21.7.1" type="github">
   <diagram name="Page-1" id="XBTaxR54Q6SIsjQ_TNZh">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-1" value="Data Science Flowchart&lt;br&gt;&lt;br&gt;General" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-7" value="Inputs" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-4" value="1x anyTransistor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-7">
+          <mxGeometry y="55" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-5" value="1x anyFineWire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-7">
+          <mxGeometry y="85" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-3" value="1x anyCapacitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-7">
+          <mxGeometry y="25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="510" as="sourcePoint" />
+            <mxPoint x="890" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="260" as="sourcePoint" />
+            <mxPoint x="890" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-10" value="Outputs" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-11" value="1x 1 bit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-10">
+          <mxGeometry y="55" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-14" value="1x 0 bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-10">
+          <mxGeometry y="25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-15" value="Binary Bit Reader" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
