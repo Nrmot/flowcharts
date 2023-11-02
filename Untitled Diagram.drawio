@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:30:36.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EOxEolyznfIestdD51no" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:50:27.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4cntLHrHRhdnVMABLav0" version="21.7.1" type="github">
   <diagram name="Page-1" id="XBTaxR54Q6SIsjQ_TNZh">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,19 +19,10 @@
         <mxCell id="eQ_fmo8oigka2ds7Q2iP-3" value="1x anyCapacitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-7">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eQ_fmo8oigka2ds7Q2iP-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eQ_fmo8oigka2ds7Q2iP-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="510" as="sourcePoint" />
-            <mxPoint x="890" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="890" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQ_fmo8oigka2ds7Q2iP-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="260" as="sourcePoint" />
-            <mxPoint x="890" y="260" as="targetPoint" />
+            <mxPoint x="800" y="389.5" as="sourcePoint" />
+            <mxPoint x="890" y="389.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQ_fmo8oigka2ds7Q2iP-10" value="Outputs" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,8 +34,35 @@
         <mxCell id="eQ_fmo8oigka2ds7Q2iP-14" value="1x 0 bit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-10">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eQ_fmo8oigka2ds7Q2iP-15" value="Binary Bit Reader" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-15" value="Computer Science Inventor&lt;br&gt;TRANSFORM: I =&amp;gt; O" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-20" value="Inputs -&amp;gt; Outputs" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="440" width="440" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-21" value="16x anyBit -&amp;gt; 1x Short" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-20">
+          <mxGeometry y="55" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-22" value="8x anyBit -&amp;gt; 1x Byte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-20">
+          <mxGeometry y="25" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-25" value="32x anyBit -&amp;gt; 1x Int" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-20">
+          <mxGeometry y="85" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-26" value="64x anyBit -&amp;gt; 1x Long" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-20">
+          <mxGeometry y="115" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-33" value="8x 0 bit + 8x 1 bit with ratio_divide-2 with flag[ALL] with conv[ASCII, BYTEVAL]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eQ_fmo8oigka2ds7Q2iP-20">
+          <mxGeometry y="145" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-23" value="Computer Science Multiblock&lt;br&gt;&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="340" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQ_fmo8oigka2ds7Q2iP-24" target="eQ_fmo8oigka2ds7Q2iP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eQ_fmo8oigka2ds7Q2iP-24" value="Binary&lt;br&gt;Branch" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
