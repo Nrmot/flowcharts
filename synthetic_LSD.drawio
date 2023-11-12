@@ -1,0 +1,606 @@
+<mxfile host="Electron" modified="2023-05-22T00:11:47.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="ba1iS0geSl_yC7grMh0x" version="21.2.8" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2245" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-10" target="s0D8NtaKFD3vKqbyBZD5-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-10" value="0.22mol toluene + nitration mixture = nitrotoluene" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="170" width="124" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oFjINf1qFZv14Wnw0uFY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-12" target="oFjINf1qFZv14Wnw0uFY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-12" value="Salt Water + Sulfuric acid chlorine = acidic salt water" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-420" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oFjINf1qFZv14Wnw0uFY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-13" target="s0D8NtaKFD3vKqbyBZD5-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-13" value="crude bromine solution + steam = hot vapor mixture" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-70" y="330" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-24" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-380" y="299" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-25" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-30" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-28" target="s0D8NtaKFD3vKqbyBZD5-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-28" value="hot vapor mixture +&amp;nbsp; sulfur dioxide = hydrobromic acid + sulfuric acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="330" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-33" target="s0D8NtaKFD3vKqbyBZD5-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-33" value="hydrobromic acid + chlorine = bromine + hydrochloric acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="330" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-35" target="s0D8NtaKFD3vKqbyBZD5-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-35" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;bromine + nitrotoluene = 2-bromo-6-nitrotoluene (oil)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-39" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="312" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-40" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="313" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-41" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="495" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-43" target="s0D8NtaKFD3vKqbyBZD5-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-43" value="2-bromo-6-nitrotoluene +&amp;nbsp; dimethylformamide dimethyl acetal + pyrollidine =&amp;nbsp;pyrrolidine intermediate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-48" target="s0D8NtaKFD3vKqbyBZD5-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-48" value="pyrollidine intermediate&amp;nbsp;+ diisopropyl ether 3L = solvated pyrolldine intermediate&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="780" y="247.5" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-52" target="s0D8NtaKFD3vKqbyBZD5-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-52" value="solvated pyrolldine intermediate in vacuo =&amp;nbsp;1-(N,N-dimethyl)-2-(2-bromo-6-nitrophenyl)ethenylamine" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="970" y="245" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-54" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="790" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-55" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-56" value="vacuum chamber" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="995" y="215" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-57" target="s0D8NtaKFD3vKqbyBZD5-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-57" value="sodium + methanol =&amp;nbsp; sodium methoxide + hydrogen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-58" target="s0D8NtaKFD3vKqbyBZD5-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-58" value="dimethylamine + methanol + carbon monoxide + sodium methoxide = dimethylformamide" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="620" y="25" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-61" target="s0D8NtaKFD3vKqbyBZD5-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-61" value="dimethylformamide + methanol =&amp;nbsp;dimethylformamide dimethyl acetal" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="625" y="135" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-68" value="condensation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-69" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="-5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-70" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="490" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-71" target="s0D8NtaKFD3vKqbyBZD5-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-71" value="1,4-butanediol + ammonia + cobalt(II) oxide&amp;nbsp;&lt;br&gt;+ nickel oxide (non consumable)&lt;br&gt;&amp;nbsp;+ Alumina (non consumable) = pyrrolidine" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="345" width="160" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-72" target="s0D8NtaKFD3vKqbyBZD5-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-72" value="succinic acid + rhenium + H2SO4 treated carbon = 1,4-butanediol" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="615" y="481.38" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-75" target="s0D8NtaKFD3vKqbyBZD5-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-75" value="Sulfuric acid + carbon = H2SO4 treated carbon" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="491.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-81" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="650" y="561.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-82" value="blowing out tower" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="298" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-84" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="461.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-85" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="565" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-86" target="s0D8NtaKFD3vKqbyBZD5-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-86" value="1-(N,N-dimethyl)-2-(2-bromo-6-nitrophenyl)ethenylamine + methanol + titanium trichloride ammonium acetate mixture = organic mixture&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1180" y="215" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-88" target="s0D8NtaKFD3vKqbyBZD5-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-88" value="titanium trichloride + ammonium acetate = titanium trichloride ammonium acetate mixture&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1195" y="70" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-90" target="s0D8NtaKFD3vKqbyBZD5-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-90" value="Titanium + chloride = titanium trichloride" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1110" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-92" target="s0D8NtaKFD3vKqbyBZD5-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-92" value="acetic acid + ammonium carbonate = ammonium acetate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1280" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-96" target="s0D8NtaKFD3vKqbyBZD5-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-96" value="aluminium nitrate + sodium hydroxide = alumina" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="797" y="367.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-98" target="s0D8NtaKFD3vKqbyBZD5-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-98" value="Nickel dust + oxygen = nickel oxide" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="365" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-100" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-101" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="830" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-103" target="s0D8NtaKFD3vKqbyBZD5-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-103" value="carbon dioxide + ammonia = ammonium carbonate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1430" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-105" target="s0D8NtaKFD3vKqbyBZD5-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-105" value="nitric acid + aluminium(III) chloride = aluminium nitrate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="797" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-107" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-108" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1315" y="-65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-109" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1140" y="-70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-110" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1470" y="-65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-111" value="mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-112" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1255" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-113" target="s0D8NtaKFD3vKqbyBZD5-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-113" value="organic mixture = centrifuged organic extract" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1370" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-114" target="s0D8NtaKFD3vKqbyBZD5-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="70" />
+              <mxPoint x="860" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-114" value="Iron(III) chloride + clay =&amp;nbsp;Montmorillonite&amp;nbsp;clay" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="930" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-115" target="s0D8NtaKFD3vKqbyBZD5-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="70" />
+              <mxPoint x="860" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-115" value="acetone + hydrogen = isopropyl" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="780" y="-10" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-116" value="trickle reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="797.5" y="-40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-117" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-118" target="s0D8NtaKFD3vKqbyBZD5-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-118" value="montmorillonite clay + isopropyl (1:10) = diisopropyl ether" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="800" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-124" value="centrifuge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1400" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-125" target="s0D8NtaKFD3vKqbyBZD5-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-125" value="centrifuged organic extract + dilute hydrochloric acid + diisopropyl ether = combined organic extract" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1520" y="247.5" width="150" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-127" target="s0D8NtaKFD3vKqbyBZD5-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-127" value="hydrogen + benzene + nickel (non consumable)&amp;nbsp; = hexane" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2040" y="491.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-128" value="combined organic extract + water = washed organic extract" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1700" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-130" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1565" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-131" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1730" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-132" target="s0D8NtaKFD3vKqbyBZD5-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-132" value="washed organic extract + magnesium sulfate = dried organic extract" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1850" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-133" target="s0D8NtaKFD3vKqbyBZD5-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-133" value="magnesium + oxygen = magnesium oxide" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1850" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-134" target="s0D8NtaKFD3vKqbyBZD5-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-134" value="magnesium oxide + dilute sulfuric acid = magnesium sulfate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1850" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-137" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1880" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-138" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1780" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-139" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1840" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-140" target="s0D8NtaKFD3vKqbyBZD5-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-140" value="dried organic extract concentrated in vacuo = 4-bromoindone containing oil" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2000" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-142" value="vacuum chamber" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2010" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-143" target="s0D8NtaKFD3vKqbyBZD5-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-143" value="silicon dioxide + hexane + dichloromethane = column chromatography purifying mixture" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2020" y="383.75" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-146" target="s0D8NtaKFD3vKqbyBZD5-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-146" value="methane + chlorine = dichloromethane" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1860" y="391.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-148" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2030" y="358.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-149" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1888" y="358.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-150" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2030" y="461.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-152" target="s0D8NtaKFD3vKqbyBZD5-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-152" value="4-bromoindone containing oil&amp;nbsp;+ chromatography purifying mixture = 4-bromoindole" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2150" y="245" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-155" value="trickle reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850" y="95" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-156" target="s0D8NtaKFD3vKqbyBZD5-231" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-156" value="4-bromoindole +&amp;nbsp;isocinchomeronic acid = lysergic acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-158" target="s0D8NtaKFD3vKqbyBZD5-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-158" value="5-ethyl-2-methylpyridine + nitric acid + cupric nitrate = copper isocinchomeronate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3540" y="239" width="170" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-161" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3590" y="203.73" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-165" target="s0D8NtaKFD3vKqbyBZD5-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-165" value="copper dust + nitric acid = cupric nitrate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3565" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-167" target="s0D8NtaKFD3vKqbyBZD5-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-167" value="copper isocinchomeronate + distilled water = washed copper isocinchomeronate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3344" y="251.5" width="169" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-168" target="s0D8NtaKFD3vKqbyBZD5-175" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-168" value="washed copper isocinchomeronate = dried copper isocinchomeronate" style="rounded=1;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3138" y="246.5" width="170" height="87.62" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-169" value="dryer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3193" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-170" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3398.5" y="221.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-174" target="s0D8NtaKFD3vKqbyBZD5-175" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-174" value="sodium hydroxide + water = sodium hydroxide dilute aqueous solution" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2965" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-175" target="s0D8NtaKFD3vKqbyBZD5-178" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-175" value="sodium hydroxide dilute aqueous solution + dried copper isocinchomeronate = digested copper isocinchomeronate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2940" y="233.73000000000002" width="170" height="112.51" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-178" target="s0D8NtaKFD3vKqbyBZD5-183" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-178" value="filtration of digested copper isocinchomeronate = copper oxide + digested copper isocinchomeronate filtrate" style="rounded=1;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2730" y="259.99" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-180" value="large filtration system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2765" y="229.99" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-181" value="mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3050" y="202.49" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-182" value="mixer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2990" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-183" target="s0D8NtaKFD3vKqbyBZD5-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-183" value="sulfuric acid + digested copper isocinchomeronate filtrate = pure copper isocinchomeronate + isocinchomeronic acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2490" y="249.06" width="190" height="82.51" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-186" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2555" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-188" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2350" y="319.99" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-189" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2170" y="212" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-194" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3640" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-188" target="s0D8NtaKFD3vKqbyBZD5-188" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-196" target="s0D8NtaKFD3vKqbyBZD5-200" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-196" value="palladium dust + aqua regia + chlorine = palladium(II) chloride" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4240" y="534.3800000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-197" target="s0D8NtaKFD3vKqbyBZD5-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-197" value="copper dust + oxygen = copper oxide" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4380" y="644.3800000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-198" target="s0D8NtaKFD3vKqbyBZD5-200" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-198" value="hydrochloric acid + copper oxide = copper(II) chloride + dilute hydrochloric acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4380" y="534.3800000000001" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-200" target="s0D8NtaKFD3vKqbyBZD5-206" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4360" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-200" value="ethylene + copper(II) chloride + palladium(II) chloride = acetaldehyde" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4300" y="370.25" width="140" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-206" target="s0D8NtaKFD3vKqbyBZD5-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-206" value="acetaldehyde + sulfuric acid + calcium carbonate = paraldehyde" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4090" y="365" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-208" target="s0D8NtaKFD3vKqbyBZD5-209" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-208" value="paraldehyde in fractional distillery = purified paraldehyde" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3950" y="385.44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-209" target="s0D8NtaKFD3vKqbyBZD5-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-209" value="purified paraldehyde + ammonia = 5-ethyl-2-methylpyridine vapor" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3810" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-210" target="s0D8NtaKFD3vKqbyBZD5-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-210" value="5-ethyl-2-methylpyridine condensate = 5-ethyl-2-methylpyridine" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3750" y="251" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-215" value="chemical reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3840" y="451.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-216" value="fractional distillery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3970" y="346.24" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-218" value="chemical reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4120" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-220" value="lcr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4440" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-221" value="chemical reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4270" y="598" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-222" value="chemical reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4310" y="659.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-223" value="chemical reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4440" y="504.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-227" target="s0D8NtaKFD3vKqbyBZD5-206" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-227" value="calcite + carbon dioxide = calcium carbonate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4090" y="271.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-228" value="ebf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="4120" y="237.07000000000002" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-230" value="dehumidifier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="3790" y="219.06" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-231" target="s0D8NtaKFD3vKqbyBZD5-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-231" value="lysergic acid + diethylamine" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2320" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-233" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Synthetic LSD&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2320" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-235" target="s0D8NtaKFD3vKqbyBZD5-231" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-235" value="ethanol + ammonia + alumina (non consumable) = diethylamine" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2510" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-237" target="s0D8NtaKFD3vKqbyBZD5-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-237" value="aluminium nitrate + sodium hydroxide = alumina" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2680" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-238" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2710" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-239" target="s0D8NtaKFD3vKqbyBZD5-237" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-239" value="nitric acid + aluminium(III) chloride = aluminium nitrate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2680" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-240" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2600" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-245" target="s0D8NtaKFD3vKqbyBZD5-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="586" />
+              <mxPoint x="780" y="470" />
+              <mxPoint x="730" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-245" value="cobalt(II) nitride = cobalt(II) oxide" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="750" y="586" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-246" value="fluid heater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="750" y="646.38" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-248" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2540" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s0D8NtaKFD3vKqbyBZD5-249" target="s0D8NtaKFD3vKqbyBZD5-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-249" value="cobalt dust + nitric acid = cobalt(II) nitrate" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="910" y="586.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0D8NtaKFD3vKqbyBZD5-251" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="950" y="551.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zITzmLoR6474cXIYjwtj-0" target="s0D8NtaKFD3vKqbyBZD5-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-0" value="maleic anhydride + copper dust = succinic acid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="594.5699999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zITzmLoR6474cXIYjwtj-1" target="zITzmLoR6474cXIYjwtj-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-1" value="butane + 3.5 oxygen = maleic anhydride + 4 water" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="698.19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-5" value="chem reac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zITzmLoR6474cXIYjwtj-6" value="trickle reactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="609.5699999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oFjINf1qFZv14Wnw0uFY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oFjINf1qFZv14Wnw0uFY-2" target="s0D8NtaKFD3vKqbyBZD5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oFjINf1qFZv14Wnw0uFY-2" value="acidic salt water = 6 salt, crude bromine solution, debrominated water" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFjINf1qFZv14Wnw0uFY-5" value="centrifuge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
