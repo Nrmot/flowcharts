@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T10:25:26.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1mtlWmwhjE2EG1wWGX_X" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T12:41:46.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PNrjNR7kDc1nqcW5a9rE" version="22.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1120" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,7 +536,7 @@
           <mxGeometry x="1930" y="-130" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p_TBhPMnW_n9OLw-p7-H-0" value="Outputs" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="575" width="400" height="40" as="geometry">
+          <mxGeometry x="1450" y="420" width="400" height="40" as="geometry">
             <mxRectangle x="80" y="360" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -550,7 +550,7 @@
           <mxGeometry y="20" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p_TBhPMnW_n9OLw-p7-H-3" value="Inputs" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="435" width="400" height="60" as="geometry">
+          <mxGeometry x="1450" y="260" width="400" height="80" as="geometry">
             <mxRectangle x="80" y="230" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -560,23 +560,26 @@
         <mxCell id="p_TBhPMnW_n9OLw-p7-H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" edge="1" parent="p_TBhPMnW_n9OLw-p7-H-3" source="p_TBhPMnW_n9OLw-p7-H-4" target="p_TBhPMnW_n9OLw-p7-H-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_TBhPMnW_n9OLw-p7-H-6" value="106 ml of absolute ethanol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-3">
+        <mxCell id="p_TBhPMnW_n9OLw-p7-H-6" value="239 ml of absolute ethanol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-3">
           <mxGeometry y="40" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p_TBhPMnW_n9OLw-p7-H-7" value="Process" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="495" width="400" height="40" as="geometry">
-            <mxRectangle x="80" y="190" width="90" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p_TBhPMnW_n9OLw-p7-H-8" value="Filtered (Machine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-7">
-          <mxGeometry y="20" width="400" height="20" as="geometry" />
+        <mxCell id="p_TBhPMnW_n9OLw-p7-H-11" value="18.57 g (0.124 mol) of (-)-tartaric acid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-3">
+          <mxGeometry y="60" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p_TBhPMnW_n9OLw-p7-H-9" value="Recipe Configuration" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="535" width="400" height="40" as="geometry">
+          <mxGeometry x="1450" y="380" width="400" height="40" as="geometry">
             <mxRectangle x="80" y="190" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p_TBhPMnW_n9OLw-p7-H-10" value="10 Minutes, 40EU LV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-9">
+          <mxGeometry y="20" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p_TBhPMnW_n9OLw-p7-H-7" value="Process" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="340" width="400" height="40" as="geometry">
+            <mxRectangle x="80" y="190" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p_TBhPMnW_n9OLw-p7-H-8" value="Chemical Mixer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="p_TBhPMnW_n9OLw-p7-H-7">
           <mxGeometry y="20" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
